@@ -49,5 +49,7 @@ sudo ./detect-objc-swift-swiftui.sh /opt > opt-results2.txt
 
 Note my paper and defense mainly discuss the contents of `system/apps/` thus the other content here is unique to this repository.
 
+These files were generated on macOS Monterey 12.0.1 with a 2021 M1 Pro 16" MacBook Pro. The presence of the `/opt` directory is unlikely if you are on an Intel Mac and attempt to replicate these results using the scripts in Section 5.
+
 ## 1.3. Want to Read My Thesis?
 My thesis will be published on the [ASU Barrett Thesis Collection](https://keep.lib.asu.edu/collections/130827) following its completion.
